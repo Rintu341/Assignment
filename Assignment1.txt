@@ -13,8 +13,8 @@ Ans:
 -------------------------------------------------------------------------------------
 3.What is the difference between a text editor and a code editor?
 Ans:	
-	A text editor is mainly used in writte  plan text,or some some kind of changes they provide.But a code editor is used
-for writte code and run code,Debugging or changes fronts etc.
+	A text editor is mainly used in writte  plan text,or some  kind of changes they provide.But a code editor is used
+for writte code and run code,Debugging or  they provide changes fronts etc.
 --------------------------------------------------------------------------------------
 4.What are the steps to develop software using the C language?
 Ans: 
