@@ -1,0 +1,26 @@
+1.Why do computers understand only binary language?
+Ans:
+	A computer is enable to work many types of calculation and a computer made with hardware and software.In hardware
+there are many things have for example Ram ,Rom and MotherBoard etc. The most essential part of computer is Ram Because if we
+open any software in computer At first they stored in Ram then they execute or processing. In ram there are millions of capaciter (whom stored current)
+they have only two state stored current or not .For human understanding we cosider when current present in capaciter that is  1 or current is not 
+present that is 0.
+That's why computer understand only Binary Language.
+--------------------------------------------------------------------------------------
+2.What is the full form of IDE?
+Ans:
+	Integrated Development Invironment(IDE)
+-------------------------------------------------------------------------------------
+3.What is the difference between a text editor and a code editor?
+Ans:	
+	A text editor is mainly used in writte  plan text,or some some kind of changes they provide.But a code editor is used
+for writte code and run code,Debugging or changes fronts etc.
+--------------------------------------------------------------------------------------
+4.What are the steps to develop software using the C language?
+Ans: 
+	At first We need to have a compiler or IDE. Then create a Source file (.c format) .Thereafter  First we need to run and compile the Source file.
+Next the gcc  produce a .exe file(Executive file), just you  Double Click on .exe  file then the software is ready to use.
+--------------------------------------------------------------------------------
+5.Who developed C Language?
+Ans: 
+	The c language is Deleloped by Dennis Ritchie in the early 1970s .
