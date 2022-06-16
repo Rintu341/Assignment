@@ -1,0 +1,45 @@
+1. Which of the following are real constants?
+        3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+Ans: 	
+	Real constants are  4.5, 3.0,-0.0
+-----------------------------------------------------------------
+2.Which of the following are not keywords in C Language?
+Ans: 	
+	dynamic,define,is,this, super are not Keywords.
+-----------------------------------------------------------------
+3.Which of the following is not a valid variable name in C language?
+Ans:
+	invalid variables are   int  7d;
+				int  d-y;
+				int  #i;
+-----------------------------------------------------------------
+4.Can we make a variable with the name switch? 
+Ans: 
+	Absolutely Not, switch is keyword.
+-----------------------------------------------------------------
+5.Keywords are defined in the compiler or their meaning is stored in the library?
+Ans:
+	yes, Keywords are defined in the compiler but their mening is not stored in library.
+-----------------------------------------------------------------	
+6.Where variables are created? (RAM, ROM, Secondary Storage or CPU)
+Ans: 
+	Variables are created in RAM.
+-----------------------------------------------------------------
+7.Who developed C Language?
+Ans:
+	C Language is developed by Dennis Ritchie .
+-----------------------------------------------------------------
+8.When was the C language developed?
+Ans:
+	In 1972 C language was developed.
+-----------------------------------------------------------------
+9.What is the name of the operating system which is responsible for the inception of the C language?
+Ans: 	
+	UNIX is the name of the operating system which is responsible for the inception of the C language.
+-----------------------------------------------------------------
+10. Whether C language is a high level or low level programming language?
+Ans.
+	C language is a high level language as well as low lavel programming language, Because we can use c language in both lavel.
+				
+							 
+	
