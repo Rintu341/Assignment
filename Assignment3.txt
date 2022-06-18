@@ -1,0 +1,44 @@
+1.What are the primitive data types in C Language?
+Ans:
+	The primitive data types in C Language are int ,char ,float,double and void.
+---------------------------------------------------------------------
+2.What kind of statements can be written outside the function body?
+Ans:
+	Declaration statements can be written outside the function body.
+---------------------------------------------------------------------
+3.What is the size of float type variable?
+Ans:
+	 The size of float type variable is 4 byte.
+---------------------------------------------------------------------
+4.What is the value of an uninitialised variable?
+Ans:
+	The value of an uninitialised variable is  Garbage .Which is not declar by programmer.
+---------------------------------------------------------------------
+5.What is the difference between float and double?
+Ans:
+	float and double both store real constants,But float occupie 4 byte in memory and double occupie 8 byte in memory .That means double store more 
+	Accurate value then float.
+---------------------------------------------------------------------
+6.What is the full form of ASCII?
+Ans:
+	ASCII :(American Standard Code for Information Interchange)
+---------------------------------------------------------------------   
+7.What is the difference between a keyword and a function?
+Ans: 
+	The major difference between is keywords are predefind  but functions is created by programmer.
+---------------------------------------------------------------------
+8.Explore the use of type modifiers in C language?
+Ans:
+	
+
+9.Can you assign a character constant in an int variable? 
+Ans:
+	It is possible, using type cast.
+---------------------------------------------------------------------
+10.State the following statement as true or false -”Every block of code is a function”.
+Ans:
+ 	The following statement is false. Most outer block is  called function.
+---------------------------------------------------------------------
+								Thank you 
+ 									
+									
