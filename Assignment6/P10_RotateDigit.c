@@ -3,8 +3,7 @@
 int main(){
     int digit;
     scanf("%d",&digit);
-    int n,rotate=0;
-   
+    int n,rotate=0;  
     
     return 0;
 }
